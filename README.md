@@ -1,0 +1,1 @@
+# Flutter_Text_Recognition_app
